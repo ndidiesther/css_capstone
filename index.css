@@ -174,9 +174,10 @@ div.footer a{
      .bigbox {
          margin:0px;
          width: 100%;
+         padding: 15px;
      }
      .bigbox > div {
-         width: 100%;
+         width: 92%;
          height:90vh;
          margin-top: 20px;
      }
