@@ -61,7 +61,7 @@ div.plan{
     font-family: "Red Hat Display", sans-serif;
     background-color: hsl(225, 100%, 98%);
     border-radius: 10px;
-    height: 60px;
+    height: 80px;
     padding:10px 20px;
     margin:0 25px;
 }
@@ -199,5 +199,6 @@ div.footer a{
      #plan01 {
          padding-left: 15px;
      }
+   
     
 }
